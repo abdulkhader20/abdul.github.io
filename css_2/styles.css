@@ -535,7 +535,7 @@ h2, .h2 {
 
 margin-top: -50px;
 	text-shadow: none;
-	margin-left:-150px;
+	margin-left:-0px;
 }
 .logo img{
 	top:500px;
@@ -950,7 +950,7 @@ img{
 	margin-left: 10px;
 font-family: 'Black3';
 	font-size: 70px;
-	font-weight:100;
+	font: weight 100px;;
 	text-align: center;
 	margin: 0 25px;
 	height: 100px;
