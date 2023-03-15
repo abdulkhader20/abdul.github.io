@@ -1382,25 +1382,4 @@ window.Modernizr = (function( window, document, undefined ) {
     //     },
     //     transEndEventName = transEndEventNames[ Modernizr.prefixed('transition') ];
 
-    Modernizr.prefixed      = function(prop, obj, elem){
-      if(!obj) {
-        return testPropsAll(prop, 'pfx');
-      } else {
-        // Testing DOM property e.g. Modernizr.prefixed('requestAnimationFrame', window) // 'mozRequestAnimationFrame'
-        return testPropsAll(prop, obj, elem);
-      }
-    };
-    /*>>prefixed*/
-
-
-    /*>>cssclasses*/
-    // Remove "no-js" class from <html> element, if it exists:
-    docElement.className = docElement.className.replace(/(^|\s)no-js(\s|$)/, '$1$2') +
-
-                            // Add the new classes to the <html> element.
-                            (enableClasses ? ' js ' + classes.join(' ') : '');
-    /*>>cssclasses*/
-
-    return Modernizr;
-
-})(this, this.document);
+  })
