@@ -473,7 +473,7 @@ h2, .h2 {
 }
 .navbar-inverse .navbar-toggle .icon-bar {
 /*background-color: #FF5200;*/
-;
+
 }
 .navbar-inverse .navbar-toggle:hover, .navbar-inverse .navbar-toggle:focus {
 	background: #FF5200;
@@ -517,9 +517,7 @@ h2, .h2 {
 	padding: 23px;
 }
 #section-strapline {
-	background: #f00bfff;
-	line-height: 42px;
-	clear: both;
+
 }
 /*----Nav ----*/
 .header .navbar-brand {
@@ -777,9 +775,7 @@ img, video, iframe, embed, object {
 	font-size: 4.5em;
 	top: 36px;
 }
-#contactUs {
-/*background: #FF5200;*/;
-}
+
 #contactUs .btn {
 	border-radius: 0px !important;
 	border: 0px !important;
@@ -1046,3 +1042,6 @@ nav#filter li {
 #clients .heading {
 	margin: 0px;
 }
+ .bgimg{
+	background-image: url(../images/img1.jpg);
+ }
