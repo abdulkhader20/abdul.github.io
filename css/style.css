@@ -15,7 +15,12 @@
   @font-face {
 	font-family: Black3; 
 	src: url(../fonts/font/NexaRustSlab-Trial-Black3.ttf) format(truetype);
-  }
+    }
+@font-face {
+  font-family: Lato3;
+  src: url(../fonts/Lato-Regular.ttf) format(truetype);
+}
+
 body {
   background: #fff;
   color: #2f3138;
@@ -1669,17 +1674,17 @@ padding-top: 150px;
 .campus h4{
   padding-left: 30px;
   padding-right: 30px;
-  padding-top:60px;
-  font-family: sans-serif;
-  font-weight: 300px;
+    font-family: 'Lato3';
+  font-size: medium;
   
   line-height: 30px;
 }
 .campus h2{
   padding-left: 30px;
-  padding-bottom: 0;
+  
   padding-top: 20px;
-  color: rgb(0, 0, 0);
+  font-family: 'poppins-bold';
+  color: #000;
  
 }
 .campus h5{
@@ -1699,14 +1704,12 @@ table, th, td {
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 .campus h1{
-
+padding-bottom: 15px;
+  padding-top: 170px;
 font-family: 'poppins-bold';
 font-size: 30px;
-padding-top: 170px;
-
-
-  text-align: center;
 color: #04aaf7;
+  text-align: center;
  
 }
 .accomdation img {
@@ -1717,15 +1720,12 @@ color: #04aaf7;
 }
 .accomdation h1{
 
-  margin-bottom: 30px;
-padding-top: 90px;
+  padding-top: 170px;
 font-family: 'poppins-bold';
 font-size: 30px;
-
-  padding-bottom: 20px;
-
+color: #04aaf7;
   text-align: center;
-  color: #000;
+ 
 }
 .accomdation h5{
   padding-left: 30px;
@@ -1738,16 +1738,16 @@ font-size: 30px;
 .accomdation h4{
   padding-left: 30px;
   padding-right: 30px;
-  padding-top:120px;
-  font-family: sans-serif;
-  font-weight: 300px;
-  letter-spacing: 3;
+    font-family: 'Lato3';
+  font-size: medium;
+  
   line-height: 30px;
 }
 .accomdation h2{
   padding-left: 30px;
   padding-bottom: 0;
   padding-top: 20px;
+  font-family: 'poppins-bold';
   color: #000;
  
 }
