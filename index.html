@@ -8,7 +8,7 @@ Description: alive is a minimal, responsive, business coming soon / landing page
 <!--[if IE 8 ]>    <html lang="en-gb" class="isie ie8 oldie no-js"> <![endif]-->
 <!--[if IE 9 ]>    <html lang="en-gb" class="isie ie9 no-js"> <![endif]-->
 <!--[if (gt IE 9)|!(IE)]><!-->
-<html lang="en-gb" >
+<html lang="en-gb" class="no-js">
 <!--<![endif]-->
 <head>
 <meta charset="utf-8">
@@ -30,6 +30,15 @@ Description: alive is a minimal, responsive, business coming soon / landing page
 <link rel="stylesheet" href="css_2/styles.css" />
 <link href="font/css/font-awesome.min.css" rel="stylesheet">
 <link rel="stylesheet" href="css_2/bttn.min.css">
+<script>
+$('document').ready(function () {
+	 $.backstretch([
+      "images_2/background/chemical-pics-1366x770.png"
+,      "images_2/background/gas-pipelines.jpg"
+    , "images_2/background/Oil-Refinery-Chemical-Petrochemical-plant-.jpg"
+    , "images_2/background/Picsart_23-03-10_17-39-27-813.jpg"
+  ], {duration: 3000, fade: 1250});
+  </script>
 </head>
 
 <body>
