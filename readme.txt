@@ -1,20 +1,32 @@
-Note
-====
+Bootstrap/HTML5 Responsive Template 
 
-alive-Responsive-Coming-Soon-Template
+Aroma Beauty and Spa Responsive Bootstrap Template is a bold, modern and stylish bootstrap theme suitable for small types of businesses such as beauty and massage center, hair salons, nail salons, and others. The template is fully responsive and mobile ready. It has the ability to function faultlessly on all types of browsers and modern devices and adapts suitably on small, big or wide screen resolutions.This template is built using latest Bootstrap framework with html5 and css3 which is very easy to customise. Download for free.  
 
-Responsive, Bootstrap Mobile First Web Template 
-Author URI: http://webthemez.com/
+Credits :
+-------
+=> Design and developed: "WebThemez"  http://webthemez.com
+=> Photos used in template: **Unsplash** - http://unsplash.com
+=> For more free web themes: http://webthemez.com
+=> Framework : http://getbootstrap.com
 
-alive is a minimal, responsive, business coming soon / landing page / one page HTML5 template based on Bootstrap 3.2.0. This theme is clean and fast, easy to customize multipurpose, includes Services and Contact form, 400+ Font Awesome icons, custom backgrounds and much more!
+Important Note:
+---------------
+To remove backlink from the template, you need to donate to remove the backlink from the template.
+Any question contact us: webthemez@gmail.com
 
 
+License :
+-------
+**Creative Commons Attribution 3.0** - http://creativecommons.org/licenses/by/3.0/
 
-Credits
-=======
-Framework  http://getbootstrap.com
-Images	(http://unsplash.com - CC0 licensed)
-Icons	Font Awesome (http://fortawesome.github.com/Font-Awesome/)
-Other	html5shiv.js (@afarkas @jdalton @jon_neal @rem)
+- You are allowed to use all files for both personal and commercial projects.
 
-Note: All the images used in this template is for demo use only, we are not responsible for any copyrights issue.	
+- If you use/modify the resources in your projects,we’d appreciate a linkback to this site.
+
+- You do not have rights to redistribute,resell or offer files from this site to any third party
+
+- If you wish to remove backlink from the template, you need to donate min USD $10 to remove backlink (credits) form the template
+
+- If you have any question,feel free to contact us at webthemez@gmail.com
+
+- All images user here is for demo purpose only, we are not responsible for any copyrights.
